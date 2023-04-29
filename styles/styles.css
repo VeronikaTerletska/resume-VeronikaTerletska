@@ -46,7 +46,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: #000000;
   width: 700px;
 }
 
@@ -125,7 +125,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #595959;
 }
 .line {
   font-style: normal;
@@ -144,7 +144,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: #000;
 }
 /* education styles */
 .education {
